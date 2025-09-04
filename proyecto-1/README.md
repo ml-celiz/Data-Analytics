@@ -24,7 +24,7 @@ productos a lo largo del año.
 ├── script/                     # Script python
 ├── visual/                     # Dashboard
 │ └── media/                    # Imagenes, formatos para dashboard
-│ └── 
+│ └── dashboard.pbix
 ├── requerimientos.txt          # Dependencias de Python  
 ├── README.md                   # Este documento
 ```
