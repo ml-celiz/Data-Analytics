@@ -25,6 +25,7 @@ productos a lo largo del año.
 │ └── Analisis de Insights.docx  
 │ └── Requerimientos Funcionales de Negocio.docx 
 ├── script/                     # Script python
+│ └── script.py  
 ├── visual/                     # Dashboard
 │ └── media/                    # Imagenes y formatos para dashboard
 │ └── dashboard.pbix
