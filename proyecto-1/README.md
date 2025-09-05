@@ -23,7 +23,7 @@ productos a lo largo del año.
 │ └── Requerimientos Funcionales de Negocio.docx 
 ├── script/                     # Script python
 ├── visual/                     # Dashboard
-│ └── media/                    # Imagenes, formatos para dashboard
+│ └── media/                    # Imagenes y formatos para dashboard
 │ └── dashboard.pbix
 ├── requerimientos.txt          # Dependencias de Python  
 ├── README.md                   # Este documento
