@@ -16,8 +16,11 @@ productos a lo largo del año.
 
 ## Estructura del proyecto
 ```
-├── data/                       # Datos (db, csv, ) 
-│ └── .   
+├── data/                       # Datos (db, csv, xlsx) 
+│ └── reglas.csv
+│ └── sanoyfresco.rar           # Base de datos
+│ └── secciones.xlsx
+│ └── tickets.zip
 ├── docs/                       # Documentacion  
 │ └── Analisis de Insights.docx  
 │ └── Requerimientos Funcionales de Negocio.docx 
